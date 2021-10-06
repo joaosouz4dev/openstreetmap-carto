@@ -1,6 +1,6 @@
 # Instalação
 
-Este documento descreve como configurar manualmente o seu sistema para executar o OpenStreetMap Carto. Se você preferir uma configuração rápida e independente de plataforma para um ambiente de desenvolvimento, sem a necessidade de instalar e configurar ferramentas manualmente, siga um guia de instalação do Docker em [DOCKER.md](https://github.com/gravitystorm/openstreetmap-carto/blob/master/DOCKER.md).
+Este documento descreve como configurar manualmente o seu sistema para executar o OpenStreetMap Carto. Se você preferir uma configuração rápida e independente de plataforma para um ambiente de desenvolvimento, sem a necessidade de instalar e configurar ferramentas manualmente, siga um guia de instalação do Docker em [DOCKER.md](./DOCKER.md).
 
 ## OpenStreetMap data
 
